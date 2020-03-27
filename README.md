@@ -13,6 +13,7 @@ can be printed from any filament on any printer. The filters can be made at home
 
 Collaboration is needed in:
 * moving the cad design to FreeCAD
+* writing and proofing instructions (text, pictures, youtube)
 * co-ordinating participants
 * testing the design
 * measuring actual filtration, pressure differential and antibio performance
