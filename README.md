@@ -6,6 +6,21 @@ COVID homemade Face Mask is aiming for N95 (EN149-2001) or better performance
 This mask is **OF COURSE** dangerous to use and should not be used!!
 * the full list of dangers is too long to be posted here and a simple google "respirator DIY danger" will provide all the information         needed
 
+Aiming to design a face mask that meets many important chrteria like:
+*-is safe
+*-filters (pasivisez)123nm particles to a significant degree
+*-adheres to the wearers face preventing leakage
+*-can be made with a 3d printer and household suplies
+*-does not iritate the skin
+is of course dificult but I propose it is not imposible and I chalange all willing to collaborate to help in this joint atempt.
+
+Here in Croatia we are currently fighting two major threths that both deplete the face mask supply.
+Besides the covid-19 pandemy we had a earthquake in Zagreb with disasterous impact on cyty center buildings.
+There are no dust protection masks to be found!
+
+Here you will find work in progress on 3 different types of masks that can be 3d printed. Determination of their suitability , optimisation of production, testing, availability are the areas we need your help with.
+
+  
 These are the files, instructions and collaborations to build an open source "homemadable" printed face mask that aims to be easy to print,
 protect against the 128nm COVID-19 virus both by passive filtration and by active virus suppression.
 The aim is to have a mask that is better than the single use models, not for prolonged multiple use,
