@@ -7,12 +7,12 @@ This mask is **OF COURSE** dangerous to use and should not be used!!
 * the full list of dangers is too long to be posted here and a simple google "respirator DIY danger" will provide all the information         needed
 
 Aiming to design a face mask that meets many important chrteria like:
-*-is safe
-*-filters (pasivisez)123nm particles to a significant degree
-*-adheres to the wearers face preventing leakage
-*-can be made with a 3d printer and household suplies
-*-does not iritate the skin
-is of course dificult but I propose it is not imposible and I chalange all willing to collaborate to help in this joint atempt.
+* -is safe
+* -filters (pasivisez)123nm particles to a significant degree
+* -adheres to the wearers face preventing leakage
+* -can be made with a 3d printer and household suplies
+* -does not iritate the skin
+* is of course dificult but I propose it is not imposible and I chalange all willing to collaborate to help in this joint atempt.
 
 Here in Croatia we are currently fighting two major threths that both deplete the face mask supply.
 Besides the covid-19 pandemy we had a earthquake in Zagreb with disasterous impact on cyty center buildings.
