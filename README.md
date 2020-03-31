@@ -8,12 +8,12 @@ This mask is **OF COURSE** dangerous to use and should not be used!!
 
 Aiming to design a face mask that meets many important criteria like:
 * is safe
-* filters (pasivisez)123nm particles to a significant degree
+* filters (pacifies)123nm particles to a significant degree
 * adheres to the wearers face preventing leakage
 * can be made with a 3d printer and household supplies
 * does not irritate the skin
 
-is of course difficult but I propose it is not impossible and I challenge all willing to collaborate to help in this joint attempt.
+It is of course difficult but I propose it is not impossible and I challenge all willing to collaborate to help in this joint attempt.
 
 Here in Croatia we are currently fighting two major threats that both deplete the face mask supply.
 Besides the covid-19 pandemic we had a earthquake in Zagreb with disastrous impact on city center buildings.
