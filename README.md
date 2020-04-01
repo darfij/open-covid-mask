@@ -1,6 +1,8 @@
 # open-covid-mask
 COVID homemade Face Mask is aiming for N95 (EN149-2001) or better performance
 
+![3masks](https://github.com/darfij/open-covid-mask/blob/master/Documents/pic/CuNANO.jpg)
+
 **WORK IN PROGRESS** aims are still to be met!
 
 This mask is **OF COURSE** dangerous to use and should not be used!!
