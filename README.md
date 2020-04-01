@@ -43,4 +43,5 @@ can be printed from any filament on any printer. The filters can be made at home
 In this repository you will find:
 * current .STL files in the STL directory
 * pictures of the latest builds in /Documents/pic
+* links to relevant filter andother information in /links
 * printing and building in the /Documents/respective mask
