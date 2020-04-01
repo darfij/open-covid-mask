@@ -32,6 +32,12 @@ protect against the 128nm COVID-19 virus both by passive filtration and by activ
 The aim is to have a mask that is better than the single use models, not for prolonged multiple use,
 can be printed from any filament on any printer. The filters can be made at home using household materials, the active virus suppression is achieved by nano copper and nano silver particles also easily produced at home.
 
+In this repository you will find:
+* current .STL files in the STL directory
+* pictures of the latest builds in /Documents/pic
+* links to relevant filter andother information in /links
+* printing and building in the /Documents/respective mask
+
 # **Collaboration is needed in:**
 * moving the cad design to FreeCAD
 * writing and proofing instructions (text, pictures, YouTube)
@@ -39,9 +45,3 @@ can be printed from any filament on any printer. The filters can be made at home
 * testing the design
 * measuring actual filtration, pressure differential and anti-bio performance
 * continuously improving the design
-
-In this repository you will find:
-* current .STL files in the STL directory
-* pictures of the latest builds in /Documents/pic
-* links to relevant filter andother information in /links
-* printing and building in the /Documents/respective mask
