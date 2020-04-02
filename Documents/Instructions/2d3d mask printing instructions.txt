@@ -6,6 +6,7 @@ Print with PLA, ABS, PETG or HIPS layer height 0.2mm, no support, 60% infill, no
 Elevate the model from the plate in Z axis direction to accommodate for fabric thickness (0.5mm).  
 (for CURA: disable Automatically drop models to the build plate)
 
+Printing:
 Cut appropriate fabric to a 250x250mm square.
 -If your bed size is 200x200 use laundry clips and clip the tightly stretched fabric to your print bead.
 -If your bed is larger than 250x250 then position the printhead to bed center about +30mm in Z direction. Use 4 stretched paper clips trough the fabric corners to fasten the stretched fabric to bed corners. Pay attention that the fabric center is at the bed center (the current position of your print head)
