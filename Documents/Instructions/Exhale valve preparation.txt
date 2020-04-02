@@ -1,0 +1,11 @@
+Exhale valve preparation:
+
+Center of the mask contains an exhale valve holder.
+The membrane for the valve can be made from kitchen latex or rubber gloves and a sawing pin.
+Print out the support pieces (exaust_cleaner, ex_vent_tool_a, ex_vent_tool_b)
+* Insert the exhaust cleaner in to the exhale valve and gently pressing down, turn several times to clean the valve of printing residue and slightly polish the inner lip of the valve
+* -put the kitchen glove between the two ex_vent_tools insert the sawing pin through the middle hole.
+* Hold together and using scissors cut a tight circle around the tools holding the kitchen glove.
+* Take the tool apart. the resulting circular membrane should be uniformly circular and fit exactly in to the valve without touching the walls. Insert the sawing pin trough the membrane center and trough the center hole on the valve.
+* Bend the protruding side of the sawing pin and cut of the excess.
+* Test the valve (just the valve) by blowing in to the valve from the outside. You should be able to inhale without restrictions and exhaling should not be possible.

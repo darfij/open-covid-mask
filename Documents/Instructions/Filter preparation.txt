@@ -1,0 +1,22 @@
+Filter preparation (for fold and 3d masks)
+Aim is to use home materials that have tested filtration capabilities, good „breathability“, and can be laced with nano coper, or nano silver or both.
+Details and tested recommendations can be found in the links section.
+
+Our filter example is made of 3 layers: 
+-first layer of cotton cloth (pillowcase cloth) wetted with Ag nano particles and dried
+-second layer of cotton pad (Maxi-pads) wetted with Cu nano particles and dried
+-third layer again of cotton cloth (pillowcase cloth) wetted with Ag nano particles and dried
+
+This has not been tested and definitely does not provide any form of certified filtration and therefore protection, but is our best guess from the currently available information.
+
+Steps:
+1. Cut 4 cotton cloth circles slightly larger than the filter hole (to about 45mm diameter)
+2. Cut 2 cotton pad circles slightly larger than the filter hole (to about 45mm diameter)
+3. Wet the 4 cotton cloth circles with nano Ag (about 5-7ml) solution. Leve to dry in a warm, dust free place.
+4. Wet the 2 cotton pad circles with nano Cu (about 5-7ml) solution. Leve to dry in a warm, dust free place.
+5. When dry, stack the two filters (each is: cotton cloth, cotton pad, cotton cloth)
+6. Press the stacks in to the filter housing taking care that they are centered and fold symmetrically against the filter walls.
+
+
+
+
