@@ -1,0 +1,32 @@
+Nano Copper/Silver production instructions
+
+Particles of some metals have been proven to incapacitate bacteria and viruses (see the links section for papers on this topic).
+Coper and silver particles, especially nano particles, seem to offer excellent protection and are very easy to make at home.
+Metal rods in water under current will electrolyze water and shed metal ions that can under some conditions clump in to very small particles (10-100nm). These particles stay suspended in water and can be used directly in this water suspension. The citric or ascorbic acid acts as electrolyte with two simultaneous benefits; it speeds up the process and keeps the produced metal particles from clumping up in to larger formations. It is important that the metals used are as pure as possible since some impurities can hinder the process and/or be toxic.
+
+Needed items:
+-Coper wire (strip isolation from an electric conductor)
+-Deionized water
+-Citric acid (crystals used in the kitchen), or ascorbic acid (vitamin C)
+-Beeker (glass)
+-Plastic cover with two holes for the wire spaced approx. 4cm
+-power source 6-12v (only about 5mA are needed) any DC supply or battery will do.
+
+Here is how make nano Cu:
+-Insert two copper wires trough the plastic cover. The wires should be lengthy enough to reach the beaker bottom.
+-Fill the beaker with deionized water and ad two pinches (about 100mg) of citric or ascorbic acid.
+-Heat the water in the microwave to boiling. 
+ TAKE CARE! Don’t burn your fingers or spill boiling water on yourself!!
+-Put the plastic cover with electrodes on the beaker and connect the power source.
+
+Bubbles will start emerging from the electrodes. 
+It is a good idea to reverse the power supply polarity every couple of minutes to avoid oxide and large particles being produced on one of the electrodes.
+Keep the up the process for about an hour, possibly reheating the water in the microwave to speed up the process (do not put the copper wires in to the microwave!!)
+The water will become slightly bluish-green. 
+If larger particles were also produced in the beaker you can filter them trough a cloth or kitchen paper towel.
+
+
+This exact same process can be used to produce nano silver dispersion as well.
+Just replace the copper wires with silver wires and get a brownish dispersion.
+
+Use this dispersion to soak filters, and wipe hands or surfaces.
