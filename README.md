@@ -2,7 +2,7 @@
 COVID homemade 3D printed Face Mask is aiming for N95 (EN149-2001) or better performance
 ![3masks](https://github.com/darfij/open-covid-mask/assets/22446437/5be0bc76-64f4-48ed-b89d-e5bf6ab27e0d)
 
-(https://github.com/darfij/open-covid-mask/blob/master/Documents/pic/3masks.jpg)
+
 
 **WORK IN PROGRESS** aims are still to be met!
 
